@@ -1,0 +1,25 @@
+#rojo {width: 300px; height: 300px; margin: 20px; background-color: red;
+ background-image: url(image/rojo.png); background-position: 40% 40%;
+  background-size: 300px; background-repeat: no-repeat; padding: 50px;
+border: 5px solid black; float: left;}
+
+#azul {width: 300px; height: 300px; margin: 20px; background-color: rgb(0, 26, 255);
+    background-image: url(image/azul.png); background-position: 40% 40%;
+     background-size: 300px; background-repeat: no-repeat; padding: 50px;
+   border: 5px solid black; float: left;}
+
+#verde {width: 300px; height: 300px; margin: 20px; background-color: rgb(14, 185, 43);
+ background-image: url(image/verde.png); background-position: 40% 40%;
+  background-size: 300px; background-repeat: no-repeat; padding: 50px;
+border: 5px solid black; float: left;}
+
+#rosa {width: 300px; height: 300px; margin: 20px; background-color: rgb(212, 60, 167);
+    background-image: url(image/rosa.png); background-position: 40% 40%;
+     background-size: 300px; background-repeat: no-repeat; padding: 50px;
+   border: 5px solid black; float: left;}
+
+@font-face {
+  font-family: powerrangers;
+  src: url(font/power_rangers/Power\ Rangers.ttf);
+}
+h1 {font-family: powerrangers; font-size: 100px; text-align: center;}
